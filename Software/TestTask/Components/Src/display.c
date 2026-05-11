@@ -27,11 +27,11 @@ void init_display()
 
 void set_out_array()
 {
-	uint32_t displayed_number = displayed_number;
+	uint32_t number = displayed_number;
 	for (int8_t i = (sizeof(seg_out_array) / sizeof(uint32_t)) - 1; i >= 0; i--)
 	{		
-		seg_out_array[i] = displayed_number % 10;
-		displayed_number /= 10;
+		seg_out_array[i] = number % 10;
+		number /= 10;
 	}
 }
 
