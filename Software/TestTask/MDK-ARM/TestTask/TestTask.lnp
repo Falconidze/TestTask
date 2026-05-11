@@ -1,0 +1,21 @@
+--cpu Cortex-M0
+"testtask\startup_stm32f072xb.o"
+"testtask\main.o"
+"testtask\gpio.o"
+"testtask\tim.o"
+"testtask\stm32f0xx_it.o"
+"testtask\stm32f0xx_ll_gpio.o"
+"testtask\stm32f0xx_ll_pwr.o"
+"testtask\stm32f0xx_ll_exti.o"
+"testtask\stm32f0xx_ll_tim.o"
+"testtask\stm32f0xx_ll_dma.o"
+"testtask\stm32f0xx_ll_rcc.o"
+"testtask\stm32f0xx_ll_utils.o"
+"testtask\system_stm32f0xx.o"
+"testtask\button.o"
+"testtask\display.o"
+"testtask\timer_and_control.o"
+--strict --scatter "TestTask\TestTask.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "C:\Users\Oleksandr\Documents\TestTask.map" -o TestTask\TestTask.axf

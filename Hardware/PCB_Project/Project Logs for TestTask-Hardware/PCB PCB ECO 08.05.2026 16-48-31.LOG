@@ -1,0 +1,45 @@
+Change Physical Footprint: Designator=C1 Old Footprint=FP-C1608-080-0_1-IPC_B New Footprint=FP-C1608-080-0_1-IPC_B
+Change Physical Footprint: Designator=C2 Old Footprint=FP-C0603C-CF-IPC_B New Footprint=FP-C0603C-CF-IPC_B
+Change Physical Footprint: Designator=C3 Old Footprint=FP-0603-L_1_6_0_1-W_0_8_0-IPC_A New Footprint=FP-0603-L_1_6_0_1-W_0_8_0-IPC_A
+Change Physical Footprint: Designator=C4 Old Footprint=FP-0603-L_1_6_0_1-W_0_8_0-IPC_B New Footprint=FP-0603-L_1_6_0_1-W_0_8_0-IPC_B
+Change Physical Footprint: Designator=C5 Old Footprint=FP-C0603C-CF-IPC_B New Footprint=FP-C0603C-CF-IPC_B
+Change Physical Footprint: Designator=C6 Old Footprint=FP-C0603C-CF-IPC_B New Footprint=FP-C0603C-CF-IPC_B
+Change Physical Footprint: Designator=C7 Old Footprint=FP-C0603C-CF-IPC_B New Footprint=FP-C0603C-CF-IPC_B
+Change Physical Footprint: Designator=C8 Old Footprint=FP-0603-L_1_6_0_1-W_0_8_0-IPC_B New Footprint=FP-0603-L_1_6_0_1-W_0_8_0-IPC_B
+Change Physical Footprint: Designator=C9 Old Footprint=FP-C0603C-CF-IPC_B New Footprint=FP-C0603C-CF-IPC_B
+Change Physical Footprint: Designator=C10 Old Footprint=FP-0603-L_1_6_0_1-W_0_8_0-IPC_A New Footprint=FP-0603-L_1_6_0_1-W_0_8_0-IPC_A
+Change Physical Footprint: Designator=C11 Old Footprint=FP-0603-L_1_6_0_1-W_0_8_0-IPC_A New Footprint=FP-0603-L_1_6_0_1-W_0_8_0-IPC_A
+Change Physical Footprint: Designator=C12 Old Footprint=FP-0603-L_1_6_0_1-W_0_8_0-IPC_A New Footprint=FP-0603-L_1_6_0_1-W_0_8_0-IPC_A
+Change Physical Footprint: Designator=D1 Old Footprint=FP-403AE-MFG New Footprint=FP-403AE-MFG
+Change Physical Footprint: Designator=D2 Old Footprint=HDSP-433G New Footprint=HDSP-433G
+Change Physical Footprint: Designator=J1 Old Footprint=AMASS_XT30PW-M New Footprint=AMASS_XT30PW-M
+Change Physical Footprint: Designator=J2 Old Footprint=AMASS_XT30PW-M New Footprint=AMASS_XT30PW-M
+Change Physical Footprint: Designator=K1 Old Footprint=FP-1721538-7-MFG New Footprint=FP-1721538-7-MFG
+Change Physical Footprint: Designator=P1 Old Footprint=61300511121 New Footprint=61300511121
+Change Physical Footprint: Designator=R1 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=R2 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=R3 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=R4 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=R5 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=R6 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=R7 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=R8 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=R9 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=R10 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=R11 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=R12 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=R13 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=R14 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=R15 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=R16 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=R17 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=R18 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=R19 Old Footprint=RES 0603_1608 New Footprint=RES 0603_1608
+Change Physical Footprint: Designator=SW1 Old Footprint=430162043826 New Footprint=430162043826
+Change Physical Footprint: Designator=SW2 Old Footprint=430162043826 New Footprint=430162043826
+Change Physical Footprint: Designator=U1 Old Footprint=FP-DCY0004A-MFG New Footprint=FP-DCY0004A-MFG
+Change Physical Footprint: Designator=U2 Old Footprint=STM-UFQFPN48_L New Footprint=STM-UFQFPN48_L
+Change Physical Footprint: Designator=VT1 Old Footprint=FP-Micro3-MFG New Footprint=FP-Micro3-MFG
+Change Physical Footprint: Designator=VT2 Old Footprint=FP-Micro3-MFG New Footprint=FP-Micro3-MFG
+Change Physical Footprint: Designator=VT3 Old Footprint=FP-Micro3-MFG New Footprint=FP-Micro3-MFG
+Change Physical Footprint: Designator=VT4 Old Footprint=FP-Micro3-MFG New Footprint=FP-Micro3-MFG
