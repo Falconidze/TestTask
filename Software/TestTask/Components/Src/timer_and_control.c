@@ -39,6 +39,7 @@ void timer_stop()
 		relay_close();
 	}
 	timer_state_e = Stopped;
+	callback_func_ptr = &timer_start;
 }
 
 uint32_t time_to_number()
@@ -77,9 +78,7 @@ void timer_work()
 		if(timer_total_seconds == 0)
 		{
 			relay_open();
-
 			timer_total_seconds = 3;
-			callback_func_ptr = &timer_start;			
 			timer_state_e = Finished;
 		}
 	}
@@ -90,6 +89,7 @@ void timer_work()
 		{
 			relay_close();
 			timer_state_e = Stopped;
+			callback_func_ptr = &timer_start;	
 			timer_total_seconds = 60;
 		}
 	}
